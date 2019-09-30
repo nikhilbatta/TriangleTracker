@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/TriangleTests.deps.json
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/TriangleTests.runtimeconfig.json
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/TriangleTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/TriangleTests.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/TriangleTests.pdb
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/Triangle.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/bin/Debug/netcoreapp2.2/Triangle.pdb
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.AssemblyInfo.cs
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.csproj.CopyComplete
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.dll
+/Users/Guest/Desktop/Triangle/Triangle.Tests/obj/Debug/netcoreapp2.2/TriangleTests.pdb

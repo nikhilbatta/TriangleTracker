@@ -1,13 +1,14 @@
 using System;
+using System.Collections.Generic;
 
-
-class Triangle
+namespace Triangle {
+public class TriangleOne
 {
   public string SideOne;
   public string SideTwo;
   public string SideThree;
   
-  public Triangle(string sideOne, string sideTwo , string sideThree) 
+  public TriangleOne(string sideOne, string sideTwo , string sideThree) 
   {
     SideOne = sideOne;
     SideTwo = sideTwo;
@@ -51,7 +52,7 @@ class Program
    Console.WriteLine("Size of side three");
    string StringSideThree = Console.ReadLine();
     
-    Triangle newTriangle =  new Triangle(StringSideOne, StringSideTwo, StringSideThree);
+    TriangleOne newTriangle =  new TriangleOne(StringSideOne, StringSideTwo, StringSideThree);
     string typeOfTriangle = newTriangle.MatchingTriangleSides();
    
      if (newTriangle.IsTriangle()) {
@@ -61,4 +62,5 @@ class Program
      }
 
   }
+}
 }
